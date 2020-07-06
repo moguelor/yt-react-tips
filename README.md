@@ -2,6 +2,8 @@
 
 [YOUTUBE] Tips que me han servido al programar mis componentes en react, creado para mi canal [mogueloDev](https://www.youtube.com/channel/UC7We0v9R6p88V7op23oCnWw) en youtube.
 
+Si te es útil, hazmelo saber regalandome una estrellita.
+
 # Empezar
 
 1. Instalar dependiencias con yarn o npm.
