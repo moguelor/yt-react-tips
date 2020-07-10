@@ -18,6 +18,6 @@ yarn install
 yarn start
 ```
 
-# React Hooks
+# Tips
 
 [Tip #1: Valor por defecto al desestructurar una variable](https://www.youtube.com/watch?v=T0ewUhBr0Xo)
