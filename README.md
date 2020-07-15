@@ -21,4 +21,5 @@ yarn start
 # Tips
 
 [Tip #1: Valor por defecto al desestructurar una variable](https://www.youtube.com/watch?v=T0ewUhBr0Xo)
+
 [Tip #2: Optional Chaining](https://www.youtube.com/watch?v=Qyqok5ITBFs)
